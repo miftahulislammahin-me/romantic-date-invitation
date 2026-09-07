@@ -1,7 +1,10 @@
 # Romantic Date Invitation ❤️
 
-A three-screen, mobile-first date invitation built with Next.js, React, TypeScript and Tailwind CSS.
+A cute interactive date invitation website.
 
+## 🌐 Live Demo
+
+[💖 Open the Live Website](https://romantic-date-invitation-ten.vercel.app/)
 ## Run locally
 
 1. Install Node.js (LTS).
